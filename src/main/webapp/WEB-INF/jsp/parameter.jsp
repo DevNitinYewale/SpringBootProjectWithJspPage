@@ -10,5 +10,6 @@
 
 	<h1>Parameter.jsp</h1>
 	<h2>hello ${name}!</h2>
+	<h2>your age ${age}!</h2>
 </body>
 </html>
